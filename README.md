@@ -1,5 +1,5 @@
 # HZC | HOME
-
+> status: Developing
 
 ![Captura de Tela (7)](https://user-images.githubusercontent.com/113468784/191865976-6141da46-766b-4f9a-b362-b2464f4f5155.png)
 
