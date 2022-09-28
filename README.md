@@ -1,7 +1,7 @@
 # HZC | HOME
-> status: Developing
 
 ![Captura de Tela (7)](https://user-images.githubusercontent.com/113468784/191865976-6141da46-766b-4f9a-b362-b2464f4f5155.png)
+> status: Developing
 
 <h1>DESCRIÇÃO DO PROJETO</h1>
 <p>Essa é a 'landing page' do 'HZC', contem conteúdo de uma loja de skatista . . .</p>
